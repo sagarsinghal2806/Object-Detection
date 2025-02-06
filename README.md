@@ -2,6 +2,8 @@
 
 This project demonstrates real-time object detection using the **SSD MobileNet V3** model trained on the **COCO dataset**. The code detects multiple objects in an image and draws bounding boxes around them with class labels and confidence scores.
 
+## This project can be used for images as well as videos...
+
 ![image](https://github.com/user-attachments/assets/6c54d793-1729-44fd-bd1e-362c1c8e30b0)
 
 
